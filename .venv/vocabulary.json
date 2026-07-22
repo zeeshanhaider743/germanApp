@@ -1,0 +1,1522 @@
+{
+    "Level A1": {
+        "Deck 1": [
+            {
+                "de": "der Mann",
+                "en": "the man",
+                "de_sentence": "Der Mann trinkt Wasser.",
+                "en_sentence": "The man drinks water."
+            },
+            {
+                "de": "die Frau",
+                "en": "the woman",
+                "de_sentence": "Die Frau liest ein Buch.",
+                "en_sentence": "The woman is reading a book."
+            },
+            {
+                "de": "das Kind",
+                "en": "the child",
+                "de_sentence": "Das Kind spielt im Garten.",
+                "en_sentence": "The child is playing in the garden."
+            },
+            {
+                "de": "der Hund",
+                "en": "the dog",
+                "de_sentence": "Der Hund bellt laut.",
+                "en_sentence": "The dog barks loudly."
+            },
+            {
+                "de": "die Katze",
+                "en": "the cat",
+                "de_sentence": "Die Katze schläft auf dem Sofa.",
+                "en_sentence": "The cat sleeps on the sofa."
+            },
+            {
+                "de": "das Haus",
+                "en": "the house",
+                "de_sentence": "Das Haus ist sehr groß.",
+                "en_sentence": "The house is very big."
+            },
+            {
+                "de": "das Auto",
+                "en": "the car",
+                "de_sentence": "Das Auto fährt schnell.",
+                "en_sentence": "The car drives fast."
+            },
+            {
+                "de": "der Baum",
+                "en": "the tree",
+                "de_sentence": "Der Baum ist grün.",
+                "en_sentence": "The tree is green."
+            },
+            {
+                "de": "das Wasser",
+                "en": "the water",
+                "de_sentence": "Das Wasser ist kalt.",
+                "en_sentence": "The water is cold."
+            },
+            {
+                "de": "das Brot",
+                "en": "the bread",
+                "de_sentence": "Ich esse das Brot.",
+                "en_sentence": "I eat the bread."
+            },
+            {
+                "de": "der Apfel",
+                "en": "the apple",
+                "de_sentence": "Der Apfel ist rot.",
+                "en_sentence": "The apple is red."
+            },
+            {
+                "de": "das Buch",
+                "en": "the book",
+                "de_sentence": "Das Buch ist interessant.",
+                "en_sentence": "The book is interesting."
+            },
+            {
+                "de": "der Tisch",
+                "en": "the table",
+                "de_sentence": "Der Apfel liegt auf dem Tisch.",
+                "en_sentence": "The apple is lying on the table."
+            },
+            {
+                "de": "der Stuhl",
+                "en": "the chair",
+                "de_sentence": "Der Stuhl ist bequem.",
+                "en_sentence": "The chair is comfortable."
+            },
+            {
+                "de": "das Bett",
+                "en": "the bed",
+                "de_sentence": "Das Bett ist weich.",
+                "en_sentence": "The bed is soft."
+            },
+            {
+                "de": "die Tür",
+                "en": "the door",
+                "de_sentence": "Bitte mach die Tür zu.",
+                "en_sentence": "Please close the door."
+            },
+            {
+                "de": "das Fenster",
+                "en": "the window",
+                "de_sentence": "Das Fenster ist offen.",
+                "en_sentence": "The window is open."
+            },
+            {
+                "de": "die Stadt",
+                "en": "the city",
+                "de_sentence": "Die Stadt ist laut.",
+                "en_sentence": "The city is loud."
+            },
+            {
+                "de": "das Land",
+                "en": "the country",
+                "de_sentence": "Wir fahren auf das Land.",
+                "en_sentence": "We are driving to the country."
+            },
+            {
+                "de": "der Weg",
+                "en": "the way",
+                "de_sentence": "Das ist der richtige Weg.",
+                "en_sentence": "That is the right way."
+            },
+            {
+                "de": "der Freund",
+                "en": "the friend (male)",
+                "de_sentence": "Er ist mein bester Freund.",
+                "en_sentence": "He is my best friend."
+            },
+            {
+                "de": "die Freundin",
+                "en": "the friend (female)",
+                "de_sentence": "Sie ist meine Freundin.",
+                "en_sentence": "She is my friend."
+            },
+            {
+                "de": "der Vater",
+                "en": "the father",
+                "de_sentence": "Mein Vater arbeitet viel.",
+                "en_sentence": "My father works a lot."
+            },
+            {
+                "de": "die Mutter",
+                "en": "the mother",
+                "de_sentence": "Meine Mutter kocht gut.",
+                "en_sentence": "My mother cooks well."
+            },
+            {
+                "de": "der Bruder",
+                "en": "the brother",
+                "de_sentence": "Mein Bruder ist klein.",
+                "en_sentence": "My brother is small."
+            },
+            {
+                "de": "die Schwester",
+                "en": "the sister",
+                "de_sentence": "Ich habe eine Schwester.",
+                "en_sentence": "I have a sister."
+            },
+            {
+                "de": "der Tag",
+                "en": "the day",
+                "de_sentence": "Der Tag ist schön.",
+                "en_sentence": "The day is beautiful."
+            },
+            {
+                "de": "die Nacht",
+                "en": "the night",
+                "de_sentence": "Die Nacht ist dunkel.",
+                "en_sentence": "The night is dark."
+            },
+            {
+                "de": "der Morgen",
+                "en": "the morning",
+                "de_sentence": "Guten Morgen!",
+                "en_sentence": "Good morning!"
+            },
+            {
+                "de": "der Abend",
+                "en": "the evening",
+                "de_sentence": "Wir essen am Abend.",
+                "en_sentence": "We eat in the evening."
+            },
+            {
+                "de": "das Essen",
+                "en": "the food",
+                "de_sentence": "Das Essen schmeckt lecker.",
+                "en_sentence": "The food tastes delicious."
+            },
+            {
+                "de": "das Geld",
+                "en": "the money",
+                "de_sentence": "Ich brauche Geld.",
+                "en_sentence": "I need money."
+            },
+            {
+                "de": "die Arbeit",
+                "en": "the work",
+                "de_sentence": "Die Arbeit ist schwer.",
+                "en_sentence": "The work is hard."
+            },
+            {
+                "de": "die Zeit",
+                "en": "the time",
+                "de_sentence": "Ich habe keine Zeit.",
+                "en_sentence": "I have no time."
+            },
+            {
+                "de": "die Uhr",
+                "en": "the clock",
+                "de_sentence": "Die Uhr ist kaputt.",
+                "en_sentence": "The clock is broken."
+            },
+            {
+                "de": "das Jahr",
+                "en": "the year",
+                "de_sentence": "Ein Jahr hat zwölf Monate.",
+                "en_sentence": "A year has twelve months."
+            },
+            {
+                "de": "der Monat",
+                "en": "the month",
+                "de_sentence": "Der Monat ist Mai.",
+                "en_sentence": "The month is May."
+            },
+            {
+                "de": "die Woche",
+                "en": "the week",
+                "de_sentence": "Die Woche war lang.",
+                "en_sentence": "The week was long."
+            },
+            {
+                "de": "die Stunde",
+                "en": "the hour",
+                "de_sentence": "Ich warte eine Stunde.",
+                "en_sentence": "I am waiting an hour."
+            },
+            {
+                "de": "der Kopf",
+                "en": "the head",
+                "de_sentence": "Mein Kopf tut weh.",
+                "en_sentence": "My head hurts."
+            },
+            {
+                "de": "die Hand",
+                "en": "the hand",
+                "de_sentence": "Gib mir deine Hand.",
+                "en_sentence": "Give me your hand."
+            },
+            {
+                "de": "der Fuß",
+                "en": "the foot",
+                "de_sentence": "Mein Fuß ist verletzt.",
+                "en_sentence": "My foot is injured."
+            },
+            {
+                "de": "das Auge",
+                "en": "the eye",
+                "de_sentence": "Das Auge ist blau.",
+                "en_sentence": "The eye is blue."
+            },
+            {
+                "de": "das Ohr",
+                "en": "the ear",
+                "de_sentence": "Das Ohr hört alles.",
+                "en_sentence": "The ear hears everything."
+            },
+            {
+                "de": "die Sonne",
+                "en": "the sun",
+                "de_sentence": "Die Sonne scheint heute.",
+                "en_sentence": "The sun is shining today."
+            },
+            {
+                "de": "der Mond",
+                "en": "the moon",
+                "de_sentence": "Der Mond ist voll.",
+                "en_sentence": "The moon is full."
+            },
+            {
+                "de": "der Stern",
+                "en": "the star",
+                "de_sentence": "Ich sehe einen Stern.",
+                "en_sentence": "I see a star."
+            },
+            {
+                "de": "der Himmel",
+                "en": "the sky",
+                "de_sentence": "Der Himmel ist blau.",
+                "en_sentence": "The sky is blue."
+            },
+            {
+                "de": "die Welt",
+                "en": "the world",
+                "de_sentence": "Die Welt ist groß.",
+                "en_sentence": "The world is big."
+            },
+            {
+                "de": "der Ball",
+                "en": "the ball",
+                "de_sentence": "Er wirft den Ball.",
+                "en_sentence": "He throws the ball."
+            }
+        ]
+    },
+    "Level A2": {
+        "Deck 1": [
+            {
+                "de": "der Beruf",
+                "en": "the profession",
+                "de_sentence": "Was ist dein Beruf?",
+                "en_sentence": "What is your profession?"
+            },
+            {
+                "de": "der Arzt",
+                "en": "the doctor (male)",
+                "de_sentence": "Der Arzt hilft den Patienten.",
+                "en_sentence": "The doctor helps the patients."
+            },
+            {
+                "de": "der Lehrer",
+                "en": "the teacher (male)",
+                "de_sentence": "Der Lehrer erklärt die Aufgabe.",
+                "en_sentence": "The teacher explains the task."
+            },
+            {
+                "de": "die Schule",
+                "en": "the school",
+                "de_sentence": "Die Schule beginnt um acht Uhr.",
+                "en_sentence": "School starts at eight o'clock."
+            },
+            {
+                "de": "der Schüler",
+                "en": "the student (school)",
+                "de_sentence": "Der Schüler macht Hausaufgaben.",
+                "en_sentence": "The student is doing homework."
+            },
+            {
+                "de": "die Universität",
+                "en": "the university",
+                "de_sentence": "Sie studiert an der Universität.",
+                "en_sentence": "She studies at the university."
+            },
+            {
+                "de": "der Student",
+                "en": "the university student",
+                "de_sentence": "Der Student liest einen Artikel.",
+                "en_sentence": "The university student is reading an article."
+            },
+            {
+                "de": "das Büro",
+                "en": "the office",
+                "de_sentence": "Ich arbeite heute im Büro.",
+                "en_sentence": "I am working in the office today."
+            },
+            {
+                "de": "die Firma",
+                "en": "the company",
+                "de_sentence": "Die Firma ist sehr erfolgreich.",
+                "en_sentence": "The company is very successful."
+            },
+            {
+                "de": "der Chef",
+                "en": "the boss",
+                "de_sentence": "Mein Chef ist freundlich.",
+                "en_sentence": "My boss is friendly."
+            },
+            {
+                "de": "der Zug",
+                "en": "the train",
+                "de_sentence": "Der Zug hat Verspätung.",
+                "en_sentence": "The train is delayed."
+            },
+            {
+                "de": "der Bahnhof",
+                "en": "the train station",
+                "de_sentence": "Wir treffen uns am Bahnhof.",
+                "en_sentence": "We are meeting at the train station."
+            },
+            {
+                "de": "das Flugzeug",
+                "en": "the airplane",
+                "de_sentence": "Das Flugzeug fliegt nach Berlin.",
+                "en_sentence": "The airplane is flying to Berlin."
+            },
+            {
+                "de": "der Flughafen",
+                "en": "the airport",
+                "de_sentence": "Der Flughafen ist weit weg.",
+                "en_sentence": "The airport is far away."
+            },
+            {
+                "de": "das Fahrrad",
+                "en": "the bicycle",
+                "de_sentence": "Ich fahre oft mit dem Fahrrad.",
+                "en_sentence": "I often ride my bicycle."
+            },
+            {
+                "de": "der Bus",
+                "en": "the bus",
+                "de_sentence": "Der Bus kommt in fünf Minuten.",
+                "en_sentence": "The bus is arriving in five minutes."
+            },
+            {
+                "de": "die Straße",
+                "en": "the street",
+                "de_sentence": "Die Straße ist sehr breit.",
+                "en_sentence": "The street is very wide."
+            },
+            {
+                "de": "die Ampel",
+                "en": "the traffic light",
+                "de_sentence": "Die Ampel zeigt Rot.",
+                "en_sentence": "The traffic light shows red."
+            },
+            {
+                "de": "die Kreuzung",
+                "en": "the intersection",
+                "de_sentence": "Fahren Sie an der Kreuzung rechts.",
+                "en_sentence": "Drive right at the intersection."
+            },
+            {
+                "de": "der Urlaub",
+                "en": "the vacation",
+                "de_sentence": "Nächste Woche habe ich Urlaub.",
+                "en_sentence": "Next week I am on vacation."
+            },
+            {
+                "de": "die Reise",
+                "en": "the journey",
+                "de_sentence": "Die Reise war sehr anstrengend.",
+                "en_sentence": "The journey was very exhausting."
+            },
+            {
+                "de": "das Hotel",
+                "en": "the hotel",
+                "de_sentence": "Das Hotel hat fünf Sterne.",
+                "en_sentence": "The hotel has five stars."
+            },
+            {
+                "de": "der Strand",
+                "en": "the beach",
+                "de_sentence": "Wir liegen am Strand.",
+                "en_sentence": "We are lying on the beach."
+            },
+            {
+                "de": "das Meer",
+                "en": "the sea",
+                "de_sentence": "Das Meer ist heute ruhig.",
+                "en_sentence": "The sea is calm today."
+            },
+            {
+                "de": "der Berg",
+                "en": "the mountain",
+                "de_sentence": "Wir wandern auf den Berg.",
+                "en_sentence": "We are hiking up the mountain."
+            },
+            {
+                "de": "der Wald",
+                "en": "the forest",
+                "de_sentence": "Wir gehen im Wald spazieren.",
+                "en_sentence": "We are taking a walk in the forest."
+            },
+            {
+                "de": "der Fluss",
+                "en": "the river",
+                "de_sentence": "Der Fluss ist sehr tief.",
+                "en_sentence": "The river is very deep."
+            },
+            {
+                "de": "der See",
+                "en": "the lake",
+                "de_sentence": "Wir schwimmen im See.",
+                "en_sentence": "We swim in the lake."
+            },
+            {
+                "de": "die Insel",
+                "en": "the island",
+                "de_sentence": "Sie lebt auf einer kleinen Insel.",
+                "en_sentence": "She lives on a small island."
+            },
+            {
+                "de": "das Wetter",
+                "en": "the weather",
+                "de_sentence": "Das Wetter ist heute wunderbar.",
+                "en_sentence": "The weather is wonderful today."
+            },
+            {
+                "de": "der Regen",
+                "en": "the rain",
+                "de_sentence": "Der Regen hört bald auf.",
+                "en_sentence": "The rain will stop soon."
+            },
+            {
+                "de": "der Schnee",
+                "en": "the snow",
+                "de_sentence": "Der Schnee fällt leise.",
+                "en_sentence": "The snow is falling softly."
+            },
+            {
+                "de": "der Wind",
+                "en": "the wind",
+                "de_sentence": "Der Wind ist heute sehr stark.",
+                "en_sentence": "The wind is very strong today."
+            },
+            {
+                "de": "die Wolke",
+                "en": "the cloud",
+                "de_sentence": "Da ist eine dunkle Wolke am Himmel.",
+                "en_sentence": "There is a dark cloud in the sky."
+            },
+            {
+                "de": "das Gewitter",
+                "en": "the thunderstorm",
+                "de_sentence": "Wir bleiben wegen dem Gewitter drinnen.",
+                "en_sentence": "We are staying inside because of the thunderstorm."
+            },
+            {
+                "de": "die Hitze",
+                "en": "the heat",
+                "de_sentence": "Ich mag diese Hitze nicht.",
+                "en_sentence": "I do not like this heat."
+            },
+            {
+                "de": "die Kälte",
+                "en": "the cold",
+                "de_sentence": "Die Kälte im Winter ist unangenehm.",
+                "en_sentence": "The cold in winter is unpleasant."
+            },
+            {
+                "de": "der Frühling",
+                "en": "the spring",
+                "de_sentence": "Im Frühling blühen die Blumen.",
+                "en_sentence": "In spring, the flowers bloom."
+            },
+            {
+                "de": "der Sommer",
+                "en": "the summer",
+                "de_sentence": "Der Sommer ist meine Lieblingsjahreszeit.",
+                "en_sentence": "Summer is my favorite season."
+            },
+            {
+                "de": "der Herbst",
+                "en": "the autumn",
+                "de_sentence": "Im Herbst fallen die Blätter.",
+                "en_sentence": "In autumn, the leaves fall."
+            },
+            {
+                "de": "der Winter",
+                "en": "the winter",
+                "de_sentence": "Der Winter ist oft sehr kalt.",
+                "en_sentence": "The winter is often very cold."
+            },
+            {
+                "de": "die Kleidung",
+                "en": "the clothes",
+                "de_sentence": "Ich muss neue Kleidung kaufen.",
+                "en_sentence": "I have to buy new clothes."
+            },
+            {
+                "de": "die Hose",
+                "en": "the trousers",
+                "de_sentence": "Die Hose passt mir gut.",
+                "en_sentence": "The trousers fit me well."
+            },
+            {
+                "de": "das Hemd",
+                "en": "the shirt",
+                "de_sentence": "Er trägt ein weißes Hemd.",
+                "en_sentence": "He is wearing a white shirt."
+            },
+            {
+                "de": "die Jacke",
+                "en": "the jacket",
+                "de_sentence": "Zieh deine Jacke an.",
+                "en_sentence": "Put your jacket on."
+            },
+            {
+                "de": "der Schuh",
+                "en": "the shoe",
+                "de_sentence": "Der rechte Schuh drückt etwas.",
+                "en_sentence": "The right shoe pinches a bit."
+            },
+            {
+                "de": "der Hut",
+                "en": "the hat",
+                "de_sentence": "Er nimmt den Hut ab.",
+                "en_sentence": "He takes off his hat."
+            },
+            {
+                "de": "die Brille",
+                "en": "the glasses",
+                "de_sentence": "Ich kann meine Brille nicht finden.",
+                "en_sentence": "I cannot find my glasses."
+            },
+            {
+                "de": "die Tasche",
+                "en": "the bag",
+                "de_sentence": "Die Tasche ist sehr schwer.",
+                "en_sentence": "The bag is very heavy."
+            },
+            {
+                "de": "der Markt",
+                "en": "the market",
+                "de_sentence": "Wir kaufen frisches Gemüse auf dem Markt.",
+                "en_sentence": "We buy fresh vegetables at the market."
+            }
+        ]
+    },
+    "Level B1": {
+        "Deck 1": [
+            {
+                "de": "der Erfolg",
+                "en": "the success",
+                "de_sentence": "Das Projekt war ein großer Erfolg.",
+                "en_sentence": "The project was a great success."
+            },
+            {
+                "de": "das Ziel",
+                "en": "the goal",
+                "de_sentence": "Sie hat ihr Ziel endlich erreicht.",
+                "en_sentence": "She has finally achieved her goal."
+            },
+            {
+                "de": "der Traum",
+                "en": "the dream",
+                "de_sentence": "Es ist mein Traum, um die Welt zu reisen.",
+                "en_sentence": "It is my dream to travel around the world."
+            },
+            {
+                "de": "der Wunsch",
+                "en": "the wish",
+                "de_sentence": "Hast du noch einen Wunsch?",
+                "en_sentence": "Do you have another wish?"
+            },
+            {
+                "de": "die Erfahrung",
+                "en": "the experience",
+                "de_sentence": "Er hat viel Erfahrung in diesem Bereich.",
+                "en_sentence": "He has a lot of experience in this area."
+            },
+            {
+                "de": "der Fehler",
+                "en": "the mistake",
+                "de_sentence": "Aus jedem Fehler kann man lernen.",
+                "en_sentence": "You can learn from every mistake."
+            },
+            {
+                "de": "der Grund",
+                "en": "the reason",
+                "de_sentence": "Das ist der Grund für meine Entscheidung.",
+                "en_sentence": "That is the reason for my decision."
+            },
+            {
+                "de": "die Meinung",
+                "en": "the opinion",
+                "de_sentence": "Meiner Meinung nach ist das eine gute Idee.",
+                "en_sentence": "In my opinion, that is a good idea."
+            },
+            {
+                "de": "der Gedanke",
+                "en": "the thought",
+                "de_sentence": "Dieser Gedanke lässt mich nicht los.",
+                "en_sentence": "This thought won't let me go."
+            },
+            {
+                "de": "das Gefühl",
+                "en": "the feeling",
+                "de_sentence": "Ich habe das Gefühl, dass wir uns kennen.",
+                "en_sentence": "I have the feeling that we know each other."
+            },
+            {
+                "de": "die Gesellschaft",
+                "en": "the society",
+                "de_sentence": "Wir leben in einer modernen Gesellschaft.",
+                "en_sentence": "We live in a modern society."
+            },
+            {
+                "de": "die Wirtschaft",
+                "en": "the economy",
+                "de_sentence": "Die Wirtschaft wächst in diesem Jahr wieder.",
+                "en_sentence": "The economy is growing again this year."
+            },
+            {
+                "de": "die Politik",
+                "en": "the politics",
+                "de_sentence": "Ich interessiere mich nicht für Politik.",
+                "en_sentence": "I am not interested in politics."
+            },
+            {
+                "de": "die Regierung",
+                "en": "the government",
+                "de_sentence": "Die Regierung hat neue Regeln beschlossen.",
+                "en_sentence": "The government has decided on new rules."
+            },
+            {
+                "de": "das Gesetz",
+                "en": "the law",
+                "de_sentence": "Dieses Gesetz schützt die Bürger.",
+                "en_sentence": "This law protects the citizens."
+            },
+            {
+                "de": "das Recht",
+                "en": "the right",
+                "de_sentence": "Jeder Mensch hat ein Recht auf Bildung.",
+                "en_sentence": "Everyone has a right to education."
+            },
+            {
+                "de": "die Pflicht",
+                "en": "the duty",
+                "de_sentence": "Es ist meine Pflicht, Ihnen zu helfen.",
+                "en_sentence": "It is my duty to help you."
+            },
+            {
+                "de": "die Freiheit",
+                "en": "the freedom",
+                "de_sentence": "Freiheit ist ein wichtiges Gut.",
+                "en_sentence": "Freedom is an important asset."
+            },
+            {
+                "de": "der Frieden",
+                "en": "the peace",
+                "de_sentence": "Alle hoffen auf Frieden in der Welt.",
+                "en_sentence": "Everyone hopes for peace in the world."
+            },
+            {
+                "de": "der Krieg",
+                "en": "the war",
+                "de_sentence": "Der Krieg hat das Land zerstört.",
+                "en_sentence": "The war destroyed the country."
+            },
+            {
+                "de": "die Umwelt",
+                "en": "the environment",
+                "de_sentence": "Wir müssen die Umwelt schützen.",
+                "en_sentence": "We must protect the environment."
+            },
+            {
+                "de": "die Natur",
+                "en": "the nature",
+                "de_sentence": "Ich verbringe meine Freizeit gerne in der Natur.",
+                "en_sentence": "I like to spend my free time in nature."
+            },
+            {
+                "de": "der Klimawandel",
+                "en": "the climate change",
+                "de_sentence": "Der Klimawandel ist ein großes Problem.",
+                "en_sentence": "Climate change is a big problem."
+            },
+            {
+                "de": "die Verschmutzung",
+                "en": "the pollution",
+                "de_sentence": "Die Verschmutzung der Meere ist gefährlich.",
+                "en_sentence": "The pollution of the seas is dangerous."
+            },
+            {
+                "de": "die Energie",
+                "en": "the energy",
+                "de_sentence": "Wind und Sonne sind erneuerbare Energie.",
+                "en_sentence": "Wind and sun are renewable energy."
+            },
+            {
+                "de": "der Strom",
+                "en": "the electricity",
+                "de_sentence": "Der Strom ist gestern ausgefallen.",
+                "en_sentence": "The electricity went out yesterday."
+            },
+            {
+                "de": "der Müll",
+                "en": "the trash",
+                "de_sentence": "Bitte werfen Sie den Müll in den Eimer.",
+                "en_sentence": "Please throw the trash in the bin."
+            },
+            {
+                "de": "das Recycling",
+                "en": "the recycling",
+                "de_sentence": "Recycling hilft der Umwelt.",
+                "en_sentence": "Recycling helps the environment."
+            },
+            {
+                "de": "die Gesundheit",
+                "en": "the health",
+                "de_sentence": "Gesundheit ist das Wichtigste im Leben.",
+                "en_sentence": "Health is the most important thing in life."
+            },
+            {
+                "de": "die Krankheit",
+                "en": "the illness",
+                "de_sentence": "Er erholt sich langsam von der Krankheit.",
+                "en_sentence": "He is slowly recovering from the illness."
+            },
+            {
+                "de": "die Arztpraxis",
+                "en": "the doctor's office",
+                "de_sentence": "Die Arztpraxis ist am Mittwochnachmittag geschlossen.",
+                "en_sentence": "The doctor's office is closed on Wednesday afternoons."
+            },
+            {
+                "de": "das Krankenhaus",
+                "en": "the hospital",
+                "de_sentence": "Mein Onkel liegt im Krankenhaus.",
+                "en_sentence": "My uncle is in the hospital."
+            },
+            {
+                "de": "das Medikament",
+                "en": "the medicine",
+                "de_sentence": "Nehmen Sie dieses Medikament nach dem Essen.",
+                "en_sentence": "Take this medicine after eating."
+            },
+            {
+                "de": "die Operation",
+                "en": "the surgery",
+                "de_sentence": "Die Operation ist gut verlaufen.",
+                "en_sentence": "The surgery went well."
+            },
+            {
+                "de": "der Schmerz",
+                "en": "the pain",
+                "de_sentence": "Der Schmerz im Rücken ist stark.",
+                "en_sentence": "The pain in the back is severe."
+            },
+            {
+                "de": "die Verletzung",
+                "en": "the injury",
+                "de_sentence": "Die Verletzung war zum Glück nicht schlimm.",
+                "en_sentence": "Fortunately, the injury was not bad."
+            },
+            {
+                "de": "der Verkehr",
+                "en": "the traffic",
+                "de_sentence": "Heute gibt es viel Verkehr auf der Autobahn.",
+                "en_sentence": "Today there is a lot of traffic on the highway."
+            },
+            {
+                "de": "der Stau",
+                "en": "the traffic jam",
+                "de_sentence": "Wir stehen seit einer Stunde im Stau.",
+                "en_sentence": "We have been stuck in a traffic jam for an hour."
+            },
+            {
+                "de": "der Unfall",
+                "en": "the accident",
+                "de_sentence": "Gestern gab es einen schweren Unfall.",
+                "en_sentence": "Yesterday there was a serious accident."
+            },
+            {
+                "de": "das Risiko",
+                "en": "the risk",
+                "de_sentence": "Dieses Risiko möchte ich nicht eingehen.",
+                "en_sentence": "I do not want to take this risk."
+            },
+            {
+                "de": "der Vorteil",
+                "en": "the advantage",
+                "de_sentence": "Das Homeoffice hat viele Vorteile.",
+                "en_sentence": "Working from home has many advantages."
+            },
+            {
+                "de": "der Nachteil",
+                "en": "the disadvantage",
+                "de_sentence": "Ein großer Nachteil ist die lange Wartezeit.",
+                "en_sentence": "A major disadvantage is the long waiting time."
+            },
+            {
+                "de": "der Unterschied",
+                "en": "the difference",
+                "de_sentence": "Ich sehe keinen Unterschied zwischen den beiden Bildern.",
+                "en_sentence": "I see no difference between the two pictures."
+            },
+            {
+                "de": "die Gemeinsamkeit",
+                "en": "the similarity",
+                "de_sentence": "Wir haben viele Gemeinsamkeiten.",
+                "en_sentence": "We have many similarities."
+            },
+            {
+                "de": "die Zukunft",
+                "en": "the future",
+                "de_sentence": "Niemand kennt die Zukunft.",
+                "en_sentence": "Nobody knows the future."
+            },
+            {
+                "de": "die Vergangenheit",
+                "en": "the past",
+                "de_sentence": "Lass die Vergangenheit ruhen.",
+                "en_sentence": "Let the past rest."
+            },
+            {
+                "de": "die Gegenwart",
+                "en": "the present",
+                "de_sentence": "Wir müssen uns auf die Gegenwart konzentrieren.",
+                "en_sentence": "We need to focus on the present."
+            },
+            {
+                "de": "die Entwicklung",
+                "en": "the development",
+                "de_sentence": "Die Entwicklung der Firma ist sehr positiv.",
+                "en_sentence": "The development of the company is very positive."
+            },
+            {
+                "de": "der Fortschritt",
+                "en": "the progress",
+                "de_sentence": "Wir machen guten Fortschritt im Kurs.",
+                "en_sentence": "We are making good progress in the course."
+            },
+            {
+                "de": "die Technik",
+                "en": "the technology",
+                "de_sentence": "Die moderne Technik erleichtert den Alltag.",
+                "en_sentence": "Modern technology makes everyday life easier."
+            }
+        ]
+    },
+    "Level B2": {
+        "Deck 1": [
+            {
+                "de": "die Herausforderung",
+                "en": "the challenge",
+                "de_sentence": "Das neue Projekt ist eine echte Herausforderung.",
+                "en_sentence": "The new project is a real challenge."
+            },
+            {
+                "de": "der Anspruch",
+                "en": "the claim / requirement",
+                "de_sentence": "Er stellt hohe Ansprüche an sich selbst.",
+                "en_sentence": "He places high demands on himself."
+            },
+            {
+                "de": "die Voraussetzung",
+                "en": "the prerequisite",
+                "de_sentence": "Ein Studium ist oft die Voraussetzung für diesen Beruf.",
+                "en_sentence": "A university degree is often the prerequisite for this profession."
+            },
+            {
+                "de": "das Bedürfnis",
+                "en": "the need",
+                "de_sentence": "Der Mensch hat das Bedürfnis nach Sicherheit.",
+                "en_sentence": "Humans have a need for security."
+            },
+            {
+                "de": "die Maßnahme",
+                "en": "the measure",
+                "de_sentence": "Wir müssen dringend Maßnahmen ergreifen.",
+                "en_sentence": "We urgently need to take measures."
+            },
+            {
+                "de": "die Auswirkung",
+                "en": "the impact / effect",
+                "de_sentence": "Das Gesetz hat direkte Auswirkungen auf die Steuern.",
+                "en_sentence": "The law has a direct impact on taxes."
+            },
+            {
+                "de": "der Zusammenhang",
+                "en": "the connection / context",
+                "de_sentence": "Ich verstehe den Zusammenhang nicht ganz.",
+                "en_sentence": "I do not quite understand the connection."
+            },
+            {
+                "de": "die Bedingung",
+                "en": "the condition",
+                "de_sentence": "Ich helfe dir, aber nur unter einer Bedingung.",
+                "en_sentence": "I will help you, but only under one condition."
+            },
+            {
+                "de": "der Umstand",
+                "en": "the circumstance",
+                "de_sentence": "Unter diesen Umständen können wir nicht arbeiten.",
+                "en_sentence": "Under these circumstances, we cannot work."
+            },
+            {
+                "de": "das Verhalten",
+                "en": "the behavior",
+                "de_sentence": "Sein Verhalten war völlig unangebracht.",
+                "en_sentence": "His behavior was completely inappropriate."
+            },
+            {
+                "de": "die Einstellung",
+                "en": "the attitude",
+                "de_sentence": "Mit einer positiven Einstellung geht vieles leichter.",
+                "en_sentence": "With a positive attitude, much is easier."
+            },
+            {
+                "de": "die Überzeugung",
+                "en": "the conviction",
+                "de_sentence": "Er handelte aus tiefer Überzeugung.",
+                "en_sentence": "He acted out of deep conviction."
+            },
+            {
+                "de": "der Zweifel",
+                "en": "the doubt",
+                "de_sentence": "Es gibt keinen Zweifel an seiner Unschuld.",
+                "en_sentence": "There is no doubt about his innocence."
+            },
+            {
+                "de": "die Bestätigung",
+                "en": "the confirmation",
+                "de_sentence": "Ich warte noch auf die schriftliche Bestätigung.",
+                "en_sentence": "I am still waiting for the written confirmation."
+            },
+            {
+                "de": "die Ablehnung",
+                "en": "the rejection",
+                "de_sentence": "Die Ablehnung seines Antrags hat ihn enttäuscht.",
+                "en_sentence": "The rejection of his application disappointed him."
+            },
+            {
+                "de": "die Zustimmung",
+                "en": "the approval",
+                "de_sentence": "Der Plan fand allgemeine Zustimmung.",
+                "en_sentence": "The plan found general approval."
+            },
+            {
+                "de": "der Kompromiss",
+                "en": "the compromise",
+                "de_sentence": "Wir müssen einen fairen Kompromiss finden.",
+                "en_sentence": "We must find a fair compromise."
+            },
+            {
+                "de": "der Konflikt",
+                "en": "the conflict",
+                "de_sentence": "Dieser Konflikt dauert schon Jahre an.",
+                "en_sentence": "This conflict has been going on for years."
+            },
+            {
+                "de": "die Auseinandersetzung",
+                "en": "the argument / dispute",
+                "de_sentence": "Sie hatten eine heftige Auseinandersetzung.",
+                "en_sentence": "They had a fierce argument."
+            },
+            {
+                "de": "die Lösung",
+                "en": "the solution",
+                "de_sentence": "Das ist die optimale Lösung für unser Problem.",
+                "en_sentence": "This is the optimal solution for our problem."
+            },
+            {
+                "de": "die Verantwortung",
+                "en": "the responsibility",
+                "de_sentence": "Du musst Verantwortung für deine Taten übernehmen.",
+                "en_sentence": "You must take responsibility for your actions."
+            },
+            {
+                "de": "das Gewissen",
+                "en": "the conscience",
+                "de_sentence": "Er hat ein reines Gewissen.",
+                "en_sentence": "He has a clear conscience."
+            },
+            {
+                "de": "die Moral",
+                "en": "the morals",
+                "de_sentence": "Die Geschichte hat eine doppelte Moral.",
+                "en_sentence": "The story has a double moral."
+            },
+            {
+                "de": "die Ethik",
+                "en": "the ethics",
+                "de_sentence": "Die Ethik in der Medizin ist ein wichtiges Thema.",
+                "en_sentence": "Ethics in medicine is an important topic."
+            },
+            {
+                "de": "die Gerechtigkeit",
+                "en": "the justice",
+                "de_sentence": "Er kämpft für soziale Gerechtigkeit.",
+                "en_sentence": "He fights for social justice."
+            },
+            {
+                "de": "die Ungerechtigkeit",
+                "en": "the injustice",
+                "de_sentence": "Diese Ungerechtigkeit macht mich wütend.",
+                "en_sentence": "This injustice makes me angry."
+            },
+            {
+                "de": "das Vorurteil",
+                "en": "the prejudice",
+                "de_sentence": "Man sollte Vorurteile abbauen.",
+                "en_sentence": "One should dismantle prejudices."
+            },
+            {
+                "de": "die Toleranz",
+                "en": "the tolerance",
+                "de_sentence": "Toleranz ist wichtig für ein friedliches Zusammenleben.",
+                "en_sentence": "Tolerance is important for living together peacefully."
+            },
+            {
+                "de": "der Respekt",
+                "en": "the respect",
+                "de_sentence": "Ich habe großen Respekt vor ihrer Leistung.",
+                "en_sentence": "I have great respect for her achievement."
+            },
+            {
+                "de": "die Rücksicht",
+                "en": "the consideration",
+                "de_sentence": "Bitte nimm mehr Rücksicht auf die Nachbarn.",
+                "en_sentence": "Please be more considerate of the neighbors."
+            },
+            {
+                "de": "der Wohlstand",
+                "en": "the prosperity",
+                "de_sentence": "Der Wohlstand des Landes ist gestiegen.",
+                "en_sentence": "The prosperity of the country has increased."
+            },
+            {
+                "de": "die Armut",
+                "en": "the poverty",
+                "de_sentence": "Die Bekämpfung der Armut hat oberste Priorität.",
+                "en_sentence": "The fight against poverty is a top priority."
+            },
+            {
+                "de": "die Ungleichheit",
+                "en": "the inequality",
+                "de_sentence": "Die soziale Ungleichheit nimmt weiter zu.",
+                "en_sentence": "Social inequality continues to increase."
+            },
+            {
+                "de": "die Krise",
+                "en": "the crisis",
+                "de_sentence": "Die Wirtschaft befindet sich in einer tiefen Krise.",
+                "en_sentence": "The economy is in a deep crisis."
+            },
+            {
+                "de": "die Inflation",
+                "en": "the inflation",
+                "de_sentence": "Die Inflation macht das Leben teurer.",
+                "en_sentence": "Inflation makes life more expensive."
+            },
+            {
+                "de": "das Wachstum",
+                "en": "the growth",
+                "de_sentence": "Das wirtschaftliche Wachstum schwächt sich ab.",
+                "en_sentence": "Economic growth is slowing down."
+            },
+            {
+                "de": "die Konkurrenz",
+                "en": "the competition",
+                "de_sentence": "Die Konkurrenz auf dem Markt ist groß.",
+                "en_sentence": "The competition in the market is high."
+            },
+            {
+                "de": "der Wettbewerb",
+                "en": "the contest / competition",
+                "de_sentence": "Er hat den ersten Platz im Wettbewerb gewonnen.",
+                "en_sentence": "He won first place in the competition."
+            },
+            {
+                "de": "die Innovation",
+                "en": "the innovation",
+                "de_sentence": "Ohne Innovation kann eine Firma nicht überleben.",
+                "en_sentence": "Without innovation, a company cannot survive."
+            },
+            {
+                "de": "die Forschung",
+                "en": "the research",
+                "de_sentence": "Sie arbeitet im Bereich der medizinischen Forschung.",
+                "en_sentence": "She works in the field of medical research."
+            },
+            {
+                "de": "die Entdeckung",
+                "en": "the discovery",
+                "de_sentence": "Das ist eine sehr wichtige Entdeckung für die Wissenschaft.",
+                "en_sentence": "This is a very important discovery for science."
+            },
+            {
+                "de": "die Erfindung",
+                "en": "the invention",
+                "de_sentence": "Die Erfindung des Buchdrucks veränderte die Welt.",
+                "en_sentence": "The invention of the printing press changed the world."
+            },
+            {
+                "de": "das Phänomen",
+                "en": "the phenomenon",
+                "de_sentence": "Wissenschaftler untersuchen dieses seltsame Phänomen.",
+                "en_sentence": "Scientists are investigating this strange phenomenon."
+            },
+            {
+                "de": "die Methode",
+                "en": "the method",
+                "de_sentence": "Wir brauchen eine neue Methode, um das Problem zu lösen.",
+                "en_sentence": "We need a new method to solve the problem."
+            },
+            {
+                "de": "die Theorie",
+                "en": "the theory",
+                "de_sentence": "In der Theorie klingt das gut, aber in der Praxis?",
+                "en_sentence": "In theory that sounds good, but in practice?"
+            },
+            {
+                "de": "die Praxis",
+                "en": "the practice",
+                "de_sentence": "Sie sammelt wichtige Erfahrungen in der Praxis.",
+                "en_sentence": "She is gathering important practical experience."
+            },
+            {
+                "de": "die Analyse",
+                "en": "the analysis",
+                "de_sentence": "Die Analyse der Daten dauert eine Weile.",
+                "en_sentence": "The analysis of the data takes a while."
+            },
+            {
+                "de": "die Struktur",
+                "en": "the structure",
+                "de_sentence": "Der Aufsatz hat eine klare Struktur.",
+                "en_sentence": "The essay has a clear structure."
+            },
+            {
+                "de": "das System",
+                "en": "the system",
+                "de_sentence": "Das System muss regelmäßig aktualisiert werden.",
+                "en_sentence": "The system must be updated regularly."
+            },
+            {
+                "de": "der Prozess",
+                "en": "the process",
+                "de_sentence": "Der gesamte Prozess ist sehr aufwendig.",
+                "en_sentence": "The entire process is very complex."
+            }
+        ]
+    },
+    "Level C1": {
+        "Deck 1": [
+            {
+                "de": "die Ambivalenz",
+                "en": "the ambivalence",
+                "de_sentence": "Ihre Gefühle für ihn waren von tiefer Ambivalenz geprägt.",
+                "en_sentence": "Her feelings for him were marked by deep ambivalence."
+            },
+            {
+                "de": "die Diskrepanz",
+                "en": "the discrepancy",
+                "de_sentence": "Es gibt eine große Diskrepanz zwischen Theorie und Praxis.",
+                "en_sentence": "There is a major discrepancy between theory and practice."
+            },
+            {
+                "de": "der Paradigmenwechsel",
+                "en": "the paradigm shift",
+                "de_sentence": "Diese Entdeckung markiert einen echten Paradigmenwechsel.",
+                "en_sentence": "This discovery marks a true paradigm shift."
+            },
+            {
+                "de": "der Konsens",
+                "en": "the consensus",
+                "de_sentence": "Die Parteien konnten keinen Konsens finden.",
+                "en_sentence": "The parties could not find a consensus."
+            },
+            {
+                "de": "der Diskurs",
+                "en": "the discourse",
+                "de_sentence": "Der politische Diskurs ist derzeit sehr aufgeheizt.",
+                "en_sentence": "The political discourse is currently very heated."
+            },
+            {
+                "de": "die Prämisse",
+                "en": "the premise",
+                "de_sentence": "Wir gehen von der Prämisse aus, dass alle zustimmen.",
+                "en_sentence": "We proceed from the premise that everyone agrees."
+            },
+            {
+                "de": "die Hypothese",
+                "en": "the hypothesis",
+                "de_sentence": "Diese Hypothese muss erst noch empirisch belegt werden.",
+                "en_sentence": "This hypothesis still needs to be empirically proven."
+            },
+            {
+                "de": "die Verifikation",
+                "en": "the verification",
+                "de_sentence": "Die Verifikation der Daten nimmt viel Zeit in Anspruch.",
+                "en_sentence": "The verification of the data takes a lot of time."
+            },
+            {
+                "de": "die Falsifikation",
+                "en": "the falsification",
+                "de_sentence": "Die Falsifikation dieser Theorie gelang ihm durch ein Experiment.",
+                "en_sentence": "He succeeded in the falsification of this theory through an experiment."
+            },
+            {
+                "de": "die Synergie",
+                "en": "the synergy",
+                "de_sentence": "Die Fusion der beiden Firmen erzeugte eine starke Synergie.",
+                "en_sentence": "The merger of the two companies created strong synergy."
+            },
+            {
+                "de": "die Kontingenz",
+                "en": "the contingency",
+                "de_sentence": "Wir müssen Pläne für jede mögliche Kontingenz vorbereiten.",
+                "en_sentence": "We must prepare plans for every possible contingency."
+            },
+            {
+                "de": "die Fluktuation",
+                "en": "the fluctuation",
+                "de_sentence": "Die Fluktuation der Mitarbeiter in dieser Abteilung ist hoch.",
+                "en_sentence": "The staff fluctuation in this department is high."
+            },
+            {
+                "de": "die Stagnation",
+                "en": "the stagnation",
+                "de_sentence": "Die Wirtschaft leidet unter einer anhaltenden Stagnation.",
+                "en_sentence": "The economy suffers from prolonged stagnation."
+            },
+            {
+                "de": "die Rezession",
+                "en": "the recession",
+                "de_sentence": "Viele befürchten, dass das Land in eine Rezession abgleitet.",
+                "en_sentence": "Many fear that the country is sliding into a recession."
+            },
+            {
+                "de": "die Prosperität",
+                "en": "the prosperity",
+                "de_sentence": "Die Region erlebte eine Ära beispielloser Prosperität.",
+                "en_sentence": "The region experienced an era of unprecedented prosperity."
+            },
+            {
+                "de": "die Subvention",
+                "en": "the subsidy",
+                "de_sentence": "Der Staat unterstützt die Bauern mit einer jährlichen Subvention.",
+                "en_sentence": "The state supports the farmers with an annual subsidy."
+            },
+            {
+                "de": "das Monopol",
+                "en": "the monopoly",
+                "de_sentence": "Das Unternehmen hat ein quasi Monopol auf dem Markt.",
+                "en_sentence": "The company has a quasi monopoly on the market."
+            },
+            {
+                "de": "das Oligopol",
+                "en": "the oligopoly",
+                "de_sentence": "In diesem Sektor herrscht ein Oligopol von drei Großkonzernen.",
+                "en_sentence": "This sector is dominated by an oligopoly of three large corporations."
+            },
+            {
+                "de": "die Hegemonie",
+                "en": "the hegemony",
+                "de_sentence": "Die kulturelle Hegemonie des Landes ist unbestreitbar.",
+                "en_sentence": "The cultural hegemony of the country is undeniable."
+            },
+            {
+                "de": "die Souveränität",
+                "en": "the sovereignty",
+                "de_sentence": "Jeder Staat hat das Recht auf nationale Souveränität.",
+                "en_sentence": "Every state has the right to national sovereignty."
+            },
+            {
+                "de": "die Integrität",
+                "en": "the integrity",
+                "de_sentence": "Wir zweifeln nicht an der Integrität des Richters.",
+                "en_sentence": "We do not doubt the integrity of the judge."
+            },
+            {
+                "de": "die Authentizität",
+                "en": "the authenticity",
+                "de_sentence": "Die Authentizität des Dokuments wurde von Experten bestätigt.",
+                "en_sentence": "The authenticity of the document was confirmed by experts."
+            },
+            {
+                "de": "die Empathie",
+                "en": "the empathy",
+                "de_sentence": "Er zeigte bemerkenswerte Empathie für die Opfer.",
+                "en_sentence": "He showed remarkable empathy for the victims."
+            },
+            {
+                "de": "die Apathie",
+                "en": "the apathy",
+                "de_sentence": "Nach dem Schock fiel sie in eine tiefe Apathie.",
+                "en_sentence": "After the shock, she fell into a deep apathy."
+            },
+            {
+                "de": "die Resilienz",
+                "en": "the resilience",
+                "de_sentence": "Kinder besitzen oft eine erstaunliche psychische Resilienz.",
+                "en_sentence": "Children often possess amazing psychological resilience."
+            },
+            {
+                "de": "die Vulnerabilität",
+                "en": "the vulnerability",
+                "de_sentence": "Das System muss auf seine Vulnerabilität geprüft werden.",
+                "en_sentence": "The system must be tested for its vulnerability."
+            },
+            {
+                "de": "die Affinität",
+                "en": "the affinity",
+                "de_sentence": "Sie hat eine starke Affinität zur klassischen Musik.",
+                "en_sentence": "She has a strong affinity for classical music."
+            },
+            {
+                "de": "die Antipathie",
+                "en": "the antipathy",
+                "de_sentence": "Er hegte eine unerklärliche Antipathie gegen seinen Kollegen.",
+                "en_sentence": "He harbored an inexplicable antipathy towards his colleague."
+            },
+            {
+                "de": "die Sympathie",
+                "en": "the sympathy",
+                "de_sentence": "Die Sympathie des Publikums lag ganz bei dem jungen Talent.",
+                "en_sentence": "The sympathy of the audience lay entirely with the young talent."
+            },
+            {
+                "de": "die Diskriminierung",
+                "en": "the discrimination",
+                "de_sentence": "Jede Form von Diskriminierung am Arbeitsplatz ist verboten.",
+                "en_sentence": "Any form of discrimination in the workplace is strictly prohibited."
+            },
+            {
+                "de": "die Marginalisierung",
+                "en": "the marginalization",
+                "de_sentence": "Die Marginalisierung von Minderheiten bleibt ein ernstes Problem.",
+                "en_sentence": "The marginalization of minorities remains a serious problem."
+            },
+            {
+                "de": "die Emanzipation",
+                "en": "the emancipation",
+                "de_sentence": "Die Emanzipation der Frauen war ein langer historischer Prozess.",
+                "en_sentence": "The emancipation of women was a long historical process."
+            },
+            {
+                "de": "die Partizipation",
+                "en": "the participation",
+                "de_sentence": "Die Bürger fordern mehr politische Partizipation.",
+                "en_sentence": "Citizens are demanding more political participation."
+            },
+            {
+                "de": "die Integration",
+                "en": "the integration",
+                "de_sentence": "Die erfolgreiche Integration erfordert Bemühungen von beiden Seiten.",
+                "en_sentence": "Successful integration requires efforts from both sides."
+            },
+            {
+                "de": "die Inklusion",
+                "en": "the inclusion",
+                "de_sentence": "Die Inklusion von Menschen mit Behinderungen wird in Schulen gefördert.",
+                "en_sentence": "The inclusion of people with disabilities is promoted in schools."
+            },
+            {
+                "de": "die Exklusion",
+                "en": "the exclusion",
+                "de_sentence": "Soziale Exklusion führt oft zu gesundheitlichen Problemen.",
+                "en_sentence": "Social exclusion often leads to health problems."
+            },
+            {
+                "de": "die Prävention",
+                "en": "the prevention",
+                "de_sentence": "In der Medizin ist Prävention besser als Heilung.",
+                "en_sentence": "In medicine, prevention is better than cure."
+            },
+            {
+                "de": "die Intervention",
+                "en": "the intervention",
+                "de_sentence": "Eine schnelle staatliche Intervention konnte die Krise abwenden.",
+                "en_sentence": "A rapid state intervention was able to avert the crisis."
+            },
+            {
+                "de": "die Rehabilitation",
+                "en": "the rehabilitation",
+                "de_sentence": "Die medizinische Rehabilitation dauerte mehrere Monate.",
+                "en_sentence": "The medical rehabilitation lasted several months."
+            },
+            {
+                "de": "die Präzision",
+                "en": "the precision",
+                "de_sentence": "Der Chirurg arbeitete mit höchster Präzision.",
+                "en_sentence": "The surgeon worked with the utmost precision."
+            },
+            {
+                "de": "die Nuance",
+                "en": "the nuance",
+                "de_sentence": "Es gibt eine feine Nuance in der Bedeutung beider Begriffe.",
+                "en_sentence": "There is a fine nuance in the meaning of both terms."
+            },
+            {
+                "de": "die Facette",
+                "en": "the facet",
+                "de_sentence": "Der Bericht beleuchtet jede Facette des Problems.",
+                "en_sentence": "The report highlights every facet of the problem."
+            },
+            {
+                "de": "das Spektrum",
+                "en": "the spectrum",
+                "de_sentence": "Das politische Spektrum reicht von ganz links bis ganz rechts.",
+                "en_sentence": "The political spectrum ranges from the far left to the far right."
+            },
+            {
+                "de": "die Dimension",
+                "en": "the dimension",
+                "de_sentence": "Das Problem hat eine globale Dimension erreicht.",
+                "en_sentence": "The problem has reached a global dimension."
+            },
+            {
+                "de": "die Perspektive",
+                "en": "the perspective",
+                "de_sentence": "Aus meiner Perspektive sieht die Situation anders aus.",
+                "en_sentence": "From my perspective, the situation looks different."
+            },
+            {
+                "de": "die Retrospektive",
+                "en": "the retrospective",
+                "de_sentence": "In der Retrospektive wirken viele Entscheidungen falsch.",
+                "en_sentence": "In retrospective, many decisions appear wrong."
+            },
+            {
+                "de": "die Antizipation",
+                "en": "the anticipation",
+                "de_sentence": "Die Antizipation möglicher Fehler ist Teil des Risikomanagements.",
+                "en_sentence": "The anticipation of possible errors is part of risk management."
+            },
+            {
+                "de": "die Intuition",
+                "en": "the intuition",
+                "de_sentence": "Manchmal sollte man sich einfach auf seine Intuition verlassen.",
+                "en_sentence": "Sometimes you should just rely on your intuition."
+            },
+            {
+                "de": "die Kognition",
+                "en": "the cognition",
+                "de_sentence": "Die Forschung untersucht Prozesse der menschlichen Kognition.",
+                "en_sentence": "The research investigates processes of human cognition."
+            },
+            {
+                "de": "die Metapher",
+                "en": "the metaphor",
+                "de_sentence": "Der Dichter verwendet oft die Natur als Metapher für das Leben.",
+                "en_sentence": "The poet often uses nature as a metaphor for life."
+            }
+        ]
+    }
+}
